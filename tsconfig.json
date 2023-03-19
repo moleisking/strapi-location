@@ -2,6 +2,7 @@
   "extends": "@strapi/typescript-utils/tsconfigs/admin",
 
   "compilerOptions": {
+    "jsx": "react",
     "target": "ESNext",
     "strict": true
   },

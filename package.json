@@ -1,10 +1,10 @@
 {
   "name": "location",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is the description of the plugin.",
   "strapi": {
-    "name": "location",
-    "description": "Description of location plugin",
+    "name": "Location Field Input",
+    "description": "Location input field for your content types",
     "kind": "plugin"
   },
   "dependencies": {

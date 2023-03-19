@@ -1,5 +1,5 @@
-import myService from './my-service';
+import locationService from './positionService';
 
 export default {
-  myService,
+  locationService,
 };

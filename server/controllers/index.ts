@@ -1,5 +1,6 @@
-import myController from './my-controller';
-
+import positionController from './positionController';
+import starController from './positionController';
 export default {
-  myController,
+  positionController,
+  starController,
 };
